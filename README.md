@@ -288,7 +288,7 @@ graph TD
 
 **Objective:** Use TensorFlow.js to run a simple in-browser model for image or text classification.
 
-**Refer**: [**Running Models with TensorFlow.js**](https://git.generalassemb.ly/build-ai-powered-web-apps/Lab5_Running-Models-with-TensorFlow.js)
+**Refer**: [**Running Models with TensorFlow.js**](https://github.com/ga-curriculum/lab5-running-models-with-tensorflow.js)
 
 ---
 
